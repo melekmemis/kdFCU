@@ -1,0 +1,81 @@
+Add Component: Footprint Not Found FER 0603_1608
+Add Component: Footprint Not Found FER 0603_1608
+Added Component: Designator=J1(stLinkHeader)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/PPTC061LFBN-RC-Sullins-datasheet-41308905.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/PPTC061LFBN-RC-Sullins-datasheet-41308905.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC061LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "560=0,255, 2240=0,25, 8400=0,24 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "5286703"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found HRO_TYPE-C-31-M-12
+Add Component: Footprint Not Found C&K PTS810
+Add Component: Footprint Not Found NKK SS312SAH4
+Added Component: Designator=U1(FP-LQFP100-1L-IPC_B)
+Add component (AddParameter): Name = "Case/Package"; Value = "LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "ARM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "216MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "1MB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/Os"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "Brown-out Detect/Reset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found EPSON TSX-3225
+Add Component: Footprint Not Found ABRACON ABS07
+Added Pin To Net: NetName=BOOT Pin=J1-4
+Added Pin To Net: NetName=BOOT Pin=U1-94
+Added Net: Name=BOOT
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-74
+Added Pin To Net: NetName=GND Pin=U1-99
+Added Net: Name=GND
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=OSC32In Pin=U1-8
+Added Net: Name=OSC32In
+Added Pin To Net: NetName=OSC32Out Pin=U1-9
+Added Net: Name=OSC32Out
+Added Pin To Net: NetName=OSCIn Pin=U1-12
+Added Net: Name=OSCIn
+Added Pin To Net: NetName=OSCOut Pin=U1-13
+Added Net: Name=OSCOut
+Added Pin To Net: NetName=RST Pin=J1-1
+Added Pin To Net: NetName=RST Pin=U1-14
+Added Net: Name=RST
+Added Pin To Net: NetName=SWCLK Pin=J1-3
+Added Pin To Net: NetName=SWCLK Pin=U1-72
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=SWDIO Pin=U1-76
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VBAT Pin=J1-5
+Added Pin To Net: NetName=VBAT Pin=U1-6
+Added Pin To Net: NetName=VBAT Pin=U1-11
+Added Pin To Net: NetName=VBAT Pin=U1-27
+Added Pin To Net: NetName=VBAT Pin=U1-50
+Added Pin To Net: NetName=VBAT Pin=U1-75
+Added Pin To Net: NetName=VBAT Pin=U1-100
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VCap1 Pin=U1-48
+Added Net: Name=VCap1
+Added Pin To Net: NetName=VCap2 Pin=U1-73
+Added Net: Name=VCap2
+Added Pin To Net: NetName=VDDA Pin=U1-21
+Added Net: Name=VDDA
+Added Pin To Net: NetName=VREF+ Pin=U1-20
+Added Net: Name=VREF+
+Added Class: Name=AT-kdFCU

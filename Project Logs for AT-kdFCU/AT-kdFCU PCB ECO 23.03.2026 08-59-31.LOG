@@ -1,0 +1,381 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=VCap2 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=VCap1 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=VDDA Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=VDDA Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=VREF+ Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=VREF+ Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=3.3 V Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=3.3 V Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=3.3 V Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=3.3 V Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=3.3 V Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=3.3 V Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=OSCOut Pin=C14-2
+Removed Pin From Net: NetName=OSC32Out Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=RST Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=OSCIn Pin=C17-2
+Removed Pin From Net: NetName=OSC32In Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=Safety Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=5V Pin=C37-2
+Removed Pin From Net: NetName=5V Pin=C38-1
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C43-1
+Removed Pin From Net: NetName=3.3 V Pin=C?-2
+Removed Member From Class: ClassName=AT-kdFCU Member=C1
+Removed Member From Class: ClassName=AT-kdFCU Member=C2
+Removed Member From Class: ClassName=AT-kdFCU Member=C3
+Removed Member From Class: ClassName=AT-kdFCU Member=C4
+Removed Member From Class: ClassName=AT-kdFCU Member=C5
+Removed Member From Class: ClassName=AT-kdFCU Member=C6
+Removed Member From Class: ClassName=AT-kdFCU Member=C8
+Removed Member From Class: ClassName=AT-kdFCU Member=C9
+Removed Member From Class: ClassName=AT-kdFCU Member=C10
+Removed Member From Class: ClassName=AT-kdFCU Member=C11
+Removed Member From Class: ClassName=AT-kdFCU Member=C12
+Removed Member From Class: ClassName=AT-kdFCU Member=C13
+Removed Member From Class: ClassName=AT-kdFCU Member=C14
+Removed Member From Class: ClassName=AT-kdFCU Member=C15
+Removed Member From Class: ClassName=AT-kdFCU Member=C16
+Removed Member From Class: ClassName=AT-kdFCU Member=C17
+Removed Member From Class: ClassName=AT-kdFCU Member=C18
+Removed Member From Class: ClassName=AT-kdSENS Member=C19
+Removed Member From Class: ClassName=AT-kdSENS Member=C20
+Removed Member From Class: ClassName=AT-kdSENS Member=C21
+Removed Member From Class: ClassName=AT-kdSENS Member=C22
+Removed Member From Class: ClassName=AT-kdSENS Member=C23
+Removed Member From Class: ClassName=AT-kdSENS Member=C24
+Removed Member From Class: ClassName=AT-kdSENS Member=C25
+Removed Member From Class: ClassName=AT-kdSENS Member=C26
+Removed Member From Class: ClassName=AT-kdSENS Member=C27
+Removed Member From Class: ClassName=AT-kdSENS Member=C28
+Removed Member From Class: ClassName=AT-kdSENS Member=C29
+Removed Member From Class: ClassName=AT-kdSENS Member=C30
+Removed Member From Class: ClassName=AT-kdSENS Member=C31
+Removed Member From Class: ClassName=AT-kdSENS Member=C32
+Removed Member From Class: ClassName=AT-kdSENS Member=C33
+Removed Member From Class: ClassName=AT-kdSENS Member=C34
+Removed Member From Class: ClassName=AT-kdSENS Member=C35
+Removed Member From Class: ClassName=AT-kdSENS Member=C36
+Removed Member From Class: ClassName=AT-kdSENS Member=C37
+Removed Member From Class: ClassName=AT-kdSENS Member=C38
+Removed Member From Class: ClassName=AT-kdSENS Member=C39
+Removed Member From Class: ClassName=AT-kdCONN Member=C40
+Removed Member From Class: ClassName=AT-kdCONN Member=C41
+Removed Member From Class: ClassName=AT-kdCONN Member=C42
+Removed Member From Class: ClassName=AT-kdCONN Member=C43
+Change Component Footprint: Designator=C? Old Footprint=CAPC0603(1608)100_M New Footprint=CAPC1608X92X38ML15T08
+Change Component Comment : Designator=C? Old Comment=4.7uF New Comment=1nF
+Change Component Comment : Designator=C? Old Comment=VJ0603Y332KXJAC New Comment=4.7uF
+Change Managed Component Library Link : Designator=C? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=76AD9243-2C0E-4B00-9544-0FED1E365F11 New ItemGUID=B2BECB60-B0C7-442E-BC4E-3A32C80DA263 Old RevisionGUID=EC7CEEDF-5221-4E72-8B41-F28A13D9358B New RevisionGUID=E531065C-BA0E-471F-917C-3975855CAB2F
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CAPC0603(1608)100_M"; UniqueID = "\XNAIRCVT" ("\XNAIRCVT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X92X38ML15T08)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y332KXJAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=OSC32In Pin=C?-1
+Added Pin To Net: NetName=OSC32Out Pin=C?-1
+Added Pin To Net: NetName=OSCIn Pin=C?-1
+Added Pin To Net: NetName=OSCOut Pin=C?-1
+Added Pin To Net: NetName=3.3 V Pin=C?-2
+Added Pin To Net: NetName=3.3 V Pin=C?-2
+Added Pin To Net: NetName=3.3 V Pin=C?-2
+Added Pin To Net: NetName=3.3 V Pin=C?-2
+Added Pin To Net: NetName=3.3 V Pin=C?-2
+Added Pin To Net: NetName=3.3 V Pin=C?-2
+Added Pin To Net: NetName=3.3 V Pin=C?-2
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=RST Pin=C?-2
+Added Pin To Net: NetName=Safety Pin=C?-2
+Added Pin To Net: NetName=VCap1 Pin=C?-2
+Added Pin To Net: NetName=VCap2 Pin=C?-2
+Added Pin To Net: NetName=VDDA Pin=C?-2
+Added Pin To Net: NetName=VDDA Pin=C?-2
+Added Pin To Net: NetName=VREF+ Pin=C?-2
+Added Pin To Net: NetName=VREF+ Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R19-1
+Added Pin To Net: NetName=NetC?_1 Pin=U6-4
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R32-1
+Added Pin To Net: NetName=NetC?_2 Pin=U1-16
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=AT-kdCONN Member=Component C? 1nF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C? 1nF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C? 1nF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C? 1nF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 4.7uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 2.2uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 15pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 4.7pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 15pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 2.2uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 2.2uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 10nF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 10nF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 10uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 10uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 10nF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 10nF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 10nF

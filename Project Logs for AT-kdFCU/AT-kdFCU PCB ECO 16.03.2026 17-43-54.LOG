@@ -1,0 +1,451 @@
+Added Component: Designator=C1(CAPC2013X140X50LL20T25)
+Added Component: Designator=C2(CAPC2013X140X50LL20T25)
+Added Component: Designator=C3(CAPC2013X140X50LL20T25)
+Added Component: Designator=C4(CAPC2013X140X50LL20T25)
+Added Component: Designator=C5(CAPC2013X140X50LL20T25)
+Added Component: Designator=C6(CAPC2013X140X50LL20T25)
+Added Component: Designator=C7(CAPC2013X140X50LL20T25)
+Added Component: Designator=C8(CAPC2013X140X50LL20T25)
+Added Component: Designator=C9(CAPC2013X140X50LL20T25)
+Added Component: Designator=C10(CAPC2013X140X50LL20T25)
+Added Component: Designator=C11(CAPC2013X140X50LL20T25)
+Added Component: Designator=C12(CAPC2013X140X50LL20T25)
+Added Component: Designator=C13(CAPC2013X140X50LL20T25)
+Added Component: Designator=C14(CAPC2013X140X50LL20T25)
+Added Component: Designator=C15(CAPC2013X140X50LL20T25)
+Added Component: Designator=C16(CAPC2013X140X50LL20T25)
+Added Component: Designator=C17(CAPC2013X140X50LL20T25)
+Added Component: Designator=C18(CAPC2013X140X50LL20T25)
+Added Component: Designator=D1(SS34C-HF)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Comchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS34C-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0,46, 10=0,36, 50=0,36, 100=0,216, 1000=0,136, 10000=0,108 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "750-SS34C-HF"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SODFL3619X98N)
+Add component (AddParameter): Name = "Capacitance @ Vr, F"; Value = "170pF @ 5V, 1MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.smc-diodes.com/propdf/MBR230LS%20N1466%20REV.A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/smc-diode-solutions/MBR230LSTR/5993804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Reverse Leakage @ Vr"; Value = "1 mA @ 30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "3/06/2024 19:54:46"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SMC Diode Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature - Junction"; Value = "-55°C ~ 100°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MBR230LSTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "2238"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-2311-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse (Vr) (Max)"; Value = "30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Max) @ If"; Value = "500 mV @ 2 A"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOT-563)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NUF2042XV6T1G/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NUF2042XV6T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-563-6 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NUF2042XV6T1G/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Added Component: Designator=DS1(LUMX-SML-LX1206YC-TR_V)
+Added Component: Designator=F1(LFUS-1812L05030PR_V)
+Added Component: Designator=FB1(BEADC1608X75N)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrite Beads and Chips"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/MPZ1608D101BTA00/1084520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-180807142.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-180807142.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-138707483.pdf?src-supplier=ODG+(Origin+Data+Global)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-138707483.pdf?src-supplier=ODG+(Origin+Data+Global)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-166171483.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-166171483.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/reach_statement/Murata-company-16.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/reach_statement/Murata-company-16.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "60m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR) (Max)"; Value = "150mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "60m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Type"; Value = "Power Line"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "850µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.037" (0.95mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "3/06/2024 19:51:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM21SP601SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MPZ1608D101BTA00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "843"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "10=0,218, 100=0,151, 500=0,108, 1000=0,0961, 2000=0,0879, 4000=0,0797 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current (Irms)"; Value = "2.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8504500000, 8543706000, 8543706000|8543706000, 8543706000|8543706000|8543706000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.032" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "3227839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-MPZ1608D101BTA00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 Ohms @ 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "600?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @ Frequency"; Value = "100 Ohms @ 100 MHz"; VariantName = "[No Variations]"
+Added Component: Designator=FB2(BEADC1608X75N)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrite Beads and Chips"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/MPZ1608D101BTA00/1084520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-180807142.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-180807142.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-138707483.pdf?src-supplier=ODG+(Origin+Data+Global)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-138707483.pdf?src-supplier=ODG+(Origin+Data+Global)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-166171483.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-166171483.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/reach_statement/Murata-company-16.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/reach_statement/Murata-company-16.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "60m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR) (Max)"; Value = "150mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "60m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Type"; Value = "Power Line"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "850µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.037" (0.95mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "3/06/2024 19:51:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM21SP601SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MPZ1608D101BTA00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "843"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "10=0,218, 100=0,151, 500=0,108, 1000=0,0961, 2000=0,0879, 4000=0,0797 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current (Irms)"; Value = "2.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8504500000, 8543706000, 8543706000|8543706000, 8543706000|8543706000|8543706000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.032" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "3227839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-MPZ1608D101BTA00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 Ohms @ 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "600?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @ Frequency"; Value = "100 Ohms @ 100 MHz"; VariantName = "[No Variations]"
+Added Component: Designator=FB3(BEADC1608X75N)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrite Beads and Chips"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/tdk-corporation/MPZ1608D101BTA00/1084520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-180807142.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-180807142.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-138707483.pdf?src-supplier=ODG+(Origin+Data+Global)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-138707483.pdf?src-supplier=ODG+(Origin+Data+Global)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-166171483.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/BLM21SP601SH1D-Murata-datasheet-166171483.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/reach_statement/Murata-company-16.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/reach_statement/Murata-company-16.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "60m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR) (Max)"; Value = "150mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "60m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Filter Type"; Value = "Power Line"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "850µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.037" (0.95mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "3/06/2024 19:51:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM21SP601SH1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MPZ1608D101BTA00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "843"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "10=0,218, 100=0,151, 500=0,108, 1000=0,0961, 2000=0,0879, 4000=0,0797 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current (Irms)"; Value = "2.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8504500000, 8543706000, 8543706000|8543706000, 8543706000|8543706000|8543706000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.032" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "3227839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-MPZ1608D101BTA00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 Ohms @ 100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "600?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @ Frequency"; Value = "100 Ohms @ 100 MHz"; VariantName = "[No Variations]"
+Added Component: Designator=J1(stLinkHeader)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/PPTC061LFBN-RC-Sullins-datasheet-41308905.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/PPTC061LFBN-RC-Sullins-datasheet-41308905.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC061LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "560=0,255, 2240=0,25, 8400=0,24 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "5286703"; VariantName = "[No Variations]"
+Added Component: Designator=J2(HRO_TYPE-C-31-M-12)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "HRO Electronics Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X60X35NL10T20)
+Added Component: Designator=R2(RESC2013X50X30LL20T20)
+Added Component: Designator=R3(RESC2013X50X30LL20T20)
+Added Component: Designator=R4(RESC0805(2012)_M)
+Added Component: Designator=R5(RESC0805(2012)_M)
+Added Component: Designator=R6(RESC0805(2012)_M)
+Added Component: Designator=S1(button)
+Add component (AddParameter): Name = "Actuator Height off PCB, Vertical"; Value = "2.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Orientation"; Value = "Top Actuated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Oval Button"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://dznh3ojzb2azq.cloudfront.net/products/Tactile/PTS810/documents/datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/c-k/PTS810-SJM-250-SMTR-LFS/CKN10502CT-ND/4176673"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.05A @ 16VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/04/2020 10:00:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outline"; Value = "4.20mm x 3.20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PTS810 SJM 250 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "PTS810"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CKN10502CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "J Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Added Component: Designator=S2(switch)
+Add component (AddParameter): Name = "Part Number"; Value = "SS312SAH4-R"; VariantName = "[No Variations]"
+Added Component: Designator=U1(FP-LQFP100-1L-IPC_B)
+Added Component: Designator=Y1(XTAL_TSX-3225_25.0000MF10P-C3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://support.epson.biz/td/api/doc_check.php?dl=brief_TSX-3225&lang=en"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/epson/TSX-3225-24-0000MF15X-AC6/5261221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "40 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "24 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "±15ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "±10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.024" (0.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "3.06.2024 20:02:15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "9pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "EPSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Mode"; Value = "Fundamental"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "4-SMD, No Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TSX-3225 24.0000MF15X-AC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "432"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "TSX-3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.098" W (3.20mm x 2.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SER4180CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MHz Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24 MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(XTAL_ABS07-32.768KHZ-7-T)
+Add component (AddParameter): Name = "Part Number"; Value = "ABS07-32.768KHZ-7-T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BOOT Pin=J1-4
+Added Net: Name=BOOT
+Added Pin To Net: NetName=DN Pin=D3-6
+Added Net: Name=DN
+Added Pin To Net: NetName=DP Pin=D3-4
+Added Net: Name=DP
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=FB2-1
+Added Pin To Net: NetName=GND Pin=FB2-2
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J2-A1_B12
+Added Pin To Net: NetName=GND Pin=J2-B1_A12
+Added Pin To Net: NetName=GND Pin=J2-S1
+Added Pin To Net: NetName=GND Pin=J2-S2
+Added Pin To Net: NetName=GND Pin=J2-S3
+Added Pin To Net: NetName=GND Pin=J2-S4
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D3-5
+Added Pin To Net: NetName=NetD1_2 Pin=J2-A4_B9
+Added Pin To Net: NetName=NetD1_2 Pin=J2-B4_A9
+Added Net: Name=NetD1_2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=FB3-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=J2-A7
+Added Pin To Net: NetName=NetD3_1 Pin=J2-B7
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_3 Pin=D3-3
+Added Pin To Net: NetName=NetD3_3 Pin=J2-A6
+Added Pin To Net: NetName=NetD3_3 Pin=J2-B6
+Added Net: Name=NetD3_3
+Added Net: Name=NetDS1_1
+Added Pin To Net: NetName=NetJ2_A5 Pin=J2-A5
+Added Net: Name=NetJ2_A5
+Added Pin To Net: NetName=NetJ2_B5 Pin=J2-B5
+Added Net: Name=NetJ2_B5
+Added Pin To Net: NetName=NetR3_1 Pin=S2-2
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=OSC32In Pin=Y2-1
+Added Net: Name=OSC32In
+Added Pin To Net: NetName=OSC32Out Pin=Y2-2
+Added Net: Name=OSC32Out
+Added Pin To Net: NetName=OSCIn Pin=Y1-3
+Added Net: Name=OSCIn
+Added Pin To Net: NetName=OSCOut Pin=Y1-1
+Added Net: Name=OSCOut
+Added Pin To Net: NetName=RST Pin=J1-1
+Added Pin To Net: NetName=RST Pin=S1-1
+Added Pin To Net: NetName=RST Pin=S1-2
+Added Net: Name=RST
+Added Pin To Net: NetName=SWCLK Pin=J1-3
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VBAT Pin=FB1-2
+Added Pin To Net: NetName=VBAT Pin=J1-5
+Added Pin To Net: NetName=VBAT Pin=S2-1
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VBUS Pin=FB3-1
+Added Net: Name=VBUS
+Added Net: Name=VCap1
+Added Net: Name=VCap2
+Added Pin To Net: NetName=VDDA Pin=FB1-1
+Added Net: Name=VDDA
+Added Net: Name=VREF+
+Add Class Member: Failed to add class member : Component C1 2.2 uF
+Add Class Member: Failed to add class member : Component C2 2.2 uF
+Add Class Member: Failed to add class member : Component C3 1 uF
+Add Class Member: Failed to add class member : Component C4 0.1 uF
+Add Class Member: Failed to add class member : Component C5 1 uF
+Add Class Member: Failed to add class member : Component C6 0.1 uF
+Add Class Member: Failed to add class member : Component C7 4.7 uF
+Add Class Member: Failed to add class member : Component C8 0.1 uF
+Add Class Member: Failed to add class member : Component C9 0.1 uF
+Add Class Member: Failed to add class member : Component C10 0.1 uF
+Add Class Member: Failed to add class member : Component C11 0.1 uF
+Add Class Member: Failed to add class member : Component C12 0.1 uF
+Add Class Member: Failed to add class member : Component C13 0.1 uF
+Add Class Member: Failed to add class member : Component C14 15 pF
+Add Class Member: Failed to add class member : Component C15 4.7 pF
+Add Class Member: Failed to add class member : Component C16 0.1 uF
+Add Class Member: Failed to add class member : Component C17 15 pF
+Add Class Member: Failed to add class member : Component C18 4.7 pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component D1 TVS
+Added Member To Class: ClassName=AT-kdFCU Member=Component D2 diode
+Added Member To Class: ClassName=AT-kdFCU Member=Component D3 NUF2042XV6T1G
+Add Class Member: Failed to add class member : Component DS1 SML-LX1206YC-TR
+Add Class Member: Failed to add class member : Component F1 fuse
+Added Member To Class: ClassName=AT-kdFCU Member=Component FB1 100 Ohms @ 100 MHz
+Added Member To Class: ClassName=AT-kdFCU Member=Component FB2 100 Ohms @ 100 MHz
+Added Member To Class: ClassName=AT-kdFCU Member=Component FB3 100 Ohms @ 100 MHz
+Added Member To Class: ClassName=AT-kdFCU Member=Component J1 6x1Female
+Added Member To Class: ClassName=AT-kdFCU Member=Component J2 TYPE-C-31-M-12
+Add Class Member: Failed to add class member : Component R1 0 Ohm
+Add Class Member: Failed to add class member : Component R2 10 K
+Add Class Member: Failed to add class member : Component R3 10 K
+Add Class Member: Failed to add class member : Component R4 5.1 K
+Add Class Member: Failed to add class member : Component R5 5.1 K
+Add Class Member: Failed to add class member : Component R6 500 Ohm
+Added Member To Class: ClassName=AT-kdFCU Member=Component S1 PTS810 SJM 250 SMTR LFS
+Added Member To Class: ClassName=AT-kdFCU Member=Component S2 slideSwitch
+Add Class Member: Failed to add class member : Component U1 STM32F765VGT6
+Added Member To Class: ClassName=AT-kdFCU Member=Component Y1 24 MHz
+Added Member To Class: ClassName=AT-kdFCU Member=Component Y2 32 KHz

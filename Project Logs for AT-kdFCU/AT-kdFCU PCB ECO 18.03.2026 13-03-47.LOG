@@ -1,0 +1,151 @@
+Removed Pin From Net: NetName=GND Pin=J?-01
+Removed Pin From Net: NetName=GND Pin=J?-02
+Removed Pin From Net: NetName=GND Pin=J?-04
+Removed Pin From Net: NetName=GND Pin=J?-05
+Removed Pin From Net: NetName=GND Pin=J?-07
+Removed Pin From Net: NetName=GND Pin=J?-08
+Removed Pin From Net: NetName=GND Pin=J?-10
+Removed Pin From Net: NetName=GND Pin=J?-11
+Removed Pin From Net: NetName=GND Pin=J?-13
+Removed Pin From Net: NetName=GND Pin=J?-16
+Removed Pin From Net: NetName=GND Pin=J?-19
+Removed Pin From Net: NetName=GND Pin=J?-22
+Removed Member From Class: ClassName=AT-kdSENS Member=C?
+Removed Member From Class: ClassName=AT-kdSENS Member=R?
+Change Component Designator: OldDesignator=B? NewDesignator=B1
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=DS? NewDesignator=DS2
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Change Component Designator: OldDesignator=S? NewDesignator=S3
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Added Pin To Net: NetName=GND Pin=J4-01
+Added Pin To Net: NetName=GND Pin=J4-04
+Added Pin To Net: NetName=GND Pin=J4-07
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=GND Pin=J4-13
+Added Pin To Net: NetName=GND Pin=J4-16
+Added Pin To Net: NetName=GND Pin=J4-19
+Added Pin To Net: NetName=GND Pin=J4-22
+Added Pin To Net: NetName=GND Pin=J5-02
+Added Pin To Net: NetName=GND Pin=J5-05
+Added Pin To Net: NetName=GND Pin=J5-08
+Added Pin To Net: NetName=GND Pin=J5-11
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC41_2
+Change Net Name : Old Net Name=NetDS?_1 New Net Name=NetDS2_1
+Change Net Name : Old Net Name=NetJ?_03 New Net Name=NetJ4_03
+Change Net Name : Old Net Name=NetJ?_06 New Net Name=NetJ5_06
+Change Net Name : Old Net Name=NetJ?_09 New Net Name=NetJ4_09
+Change Net Name : Old Net Name=NetJ?_12 New Net Name=NetJ4_12
+Change Net Name : Old Net Name=NetJ?_15 New Net Name=NetJ4_15
+Change Net Name : Old Net Name=NetJ?_18 New Net Name=NetJ4_18
+Change Net Name : Old Net Name=NetJ?_21 New Net Name=NetJ4_21
+Change Net Name : Old Net Name=NetJ?_24 New Net Name=NetJ4_24
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR44_2
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=R34-2
+Added Net: Name=NetC40_2
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=R32-1
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=R30-1
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetJ4_02 Pin=J4-02
+Added Pin To Net: NetName=NetJ4_02 Pin=J4-05
+Added Pin To Net: NetName=NetJ4_02 Pin=J4-08
+Added Pin To Net: NetName=NetJ4_02 Pin=J4-11
+Added Pin To Net: NetName=NetJ4_02 Pin=J4-14
+Added Pin To Net: NetName=NetJ4_02 Pin=J4-17
+Added Pin To Net: NetName=NetJ4_02 Pin=J4-20
+Added Pin To Net: NetName=NetJ4_02 Pin=J4-23
+Added Pin To Net: NetName=NetJ4_02 Pin=J5-01
+Added Pin To Net: NetName=NetJ4_02 Pin=J5-04
+Added Pin To Net: NetName=NetJ4_02 Pin=J5-07
+Added Pin To Net: NetName=NetJ4_02 Pin=J5-10
+Added Net: Name=NetJ4_02
+Added Pin To Net: NetName=NetJ4_06 Pin=J4-06
+Added Pin To Net: NetName=NetJ4_06 Pin=R43-1
+Added Net: Name=NetJ4_06
+Added Pin To Net: NetName=NetJ5_03 Pin=J5-03
+Added Pin To Net: NetName=NetJ5_03 Pin=R34-1
+Added Net: Name=NetJ5_03
+Added Pin To Net: NetName=NetJ5_09 Pin=J5-09
+Added Pin To Net: NetName=NetJ5_09 Pin=R31-1
+Added Net: Name=NetJ5_09
+Added Pin To Net: NetName=NetJ5_12 Pin=J5-12
+Added Pin To Net: NetName=NetJ5_12 Pin=R29-1
+Added Net: Name=NetJ5_12
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=R30-2
+Added Pin To Net: NetName=NetR29_2 Pin=R36-2
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=R32-2
+Added Pin To Net: NetName=NetR31_2 Pin=R35-2
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Net: Name=NetR41_2
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Net: Name=NetR42_2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Net: Name=NetR43_2
+Added Member To Class: ClassName=AT-kdSENS Member=Component C36 0.1 uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C37 0.1 uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C38 10 uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C39 10 uF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C40 1 nF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C41 1 nF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C42 1 nF
+Added Member To Class: ClassName=AT-kdCONN Member=Component J5 TSW-104-23-L-T-LL
+Added Member To Class: ClassName=AT-kdSENS Member=Component R27 10 K
+Added Member To Class: ClassName=AT-kdSENS Member=Component R28 500 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R29 180 K
+Added Member To Class: ClassName=AT-kdCONN Member=Component R30 100 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R31 10K
+Added Member To Class: ClassName=AT-kdCONN Member=Component R32 100 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R33 100 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R34 100 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R35 20 K
+Added Member To Class: ClassName=AT-kdCONN Member=Component R36 24 K
+Added Member To Class: ClassName=AT-kdCONN Member=Component R37 47 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R38 47 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R39 47 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R40 47 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R41 47 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R42 47 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R43 47 Ohm

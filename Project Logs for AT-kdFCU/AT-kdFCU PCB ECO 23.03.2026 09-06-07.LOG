@@ -1,0 +1,100 @@
+Removed Member From Class: ClassName=AT-kdCONN Member=C?
+Removed Member From Class: ClassName=AT-kdSENS Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC30_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC40_2
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=C25-1
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=R18-1
+Added Pin To Net: NetName=NetC31_1 Pin=U5-4
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_1 Pin=R15-1
+Added Pin To Net: NetName=NetC32_1 Pin=U6-1
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=R19-1
+Added Pin To Net: NetName=NetC33_1 Pin=U6-4
+Added Net: Name=NetC33_1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=R33-2
+Added Pin To Net: NetName=NetC41_2 Pin=U1-17
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=R32-1
+Added Pin To Net: NetName=NetC42_2 Pin=U1-16
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=R30-1
+Added Pin To Net: NetName=NetC43_2 Pin=U1-15
+Added Net: Name=NetC43_2
+Added Member To Class: ClassName=AT-kdSENS Member=Component C19 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C20 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C21 2.2uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C22 10nF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C23 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C24 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C25 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C26 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C27 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C28 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C29 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C30 10nF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C31 10nF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C32 10nF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C33 10nF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C34 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C35 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C36 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C37 10uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C38 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C39 10uF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C40 1nF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C41 1nF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C42 1nF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C43 1nF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 4.7uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 15pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 2.2uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 4.7pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 2.2uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 15pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C? 0.1uF

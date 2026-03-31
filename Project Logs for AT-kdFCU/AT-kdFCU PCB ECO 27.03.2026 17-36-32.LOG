@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetR7_2 Pin=U1-17
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=U1-18
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=U1-32
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-35
+Added Net: Name=NetR10_2
+Add Class Member: Failed to add class member : Component R7 CRCW02010000Z0ED
+Add Class Member: Failed to add class member : Component R8 CRCW02010000Z0ED
+Add Class Member: Failed to add class member : Component R9 CRCW02010000Z0ED
+Add Class Member: Failed to add class member : Component R10 CRCW02010000Z0ED

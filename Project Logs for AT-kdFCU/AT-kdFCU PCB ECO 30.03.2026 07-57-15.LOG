@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetR7_2 Pin=U1-32
+Change Component Footprint: Designator=R7 Old Footprint=RESC0603X28X15NL5T05 New Footprint=RESC1005X40X25NL05T10
+Change Component Comment : Designator=R7 Old Comment=CRCW02010000Z0ED New Comment=RC0402JR-100RL
+Change Component Designator: OldDesignator=C14 NewDesignator=C19
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C16 NewDesignator=C15
+Change Component Designator: OldDesignator=C17 NewDesignator=C16
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R8 NewDesignator=R4
+Change Component Designator: OldDesignator=R9 NewDesignator=R5
+Change Component Designator: OldDesignator=R10 NewDesignator=R6
+Change Managed Component Library Link : Designator=R7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA New ItemGUID=D4537EB1-04EE-4321-BC22-542C6172E98D Old RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3 New RevisionGUID=18EBC333-E1CC-4F7B-AB9C-CE6670BFB874
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RESC0603X28X15NL5T05"; UniqueID = "\HEVPIMQO" ("\HEVPIMQO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402JR-100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1005X40X25NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1005X40X25NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1005X40X25NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-100RL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR7_2 Pin=U1-17
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR3_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U1-18
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U1-32
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-33
+Added Net: Name=NetR10_2

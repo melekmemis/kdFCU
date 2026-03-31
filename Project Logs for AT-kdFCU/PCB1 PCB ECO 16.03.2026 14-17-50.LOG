@@ -1,0 +1,25 @@
+Add Component: Footprint Not Found FER 0603_1608
+Add Component: Footprint Not Found FER 0603_1608
+Add Component: Footprint Not Found stLinkHeader
+Add Component: Footprint Not Found HRO_TYPE-C-31-M-12
+Add Component: Footprint Not Found C&K PTS810
+Add Component: Footprint Not Found NKK SS312SAH4
+Added Component: Designator=U1(FP-LQFP100-1L-IPC_B)
+Add Component: Footprint Not Found NDK NX3225SA
+Add Component: Footprint Not Found ABRACON ABS07
+Added Net: Name=BOOT
+Added Net: Name=GND
+Added Net: Name=NetR3_1
+Added Net: Name=OSC32In
+Added Net: Name=OSC32Out
+Added Net: Name=OSCIn
+Added Net: Name=OSCOut
+Added Net: Name=RST
+Added Net: Name=SWCLK
+Added Net: Name=SWDIO
+Added Net: Name=VBAT
+Added Net: Name=VCap1
+Added Net: Name=VCap2
+Added Net: Name=VDDA
+Added Net: Name=VREF+
+Added Class: Name=Sheet1

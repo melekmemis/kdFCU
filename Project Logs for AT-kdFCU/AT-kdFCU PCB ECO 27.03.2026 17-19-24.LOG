@@ -1,0 +1,25 @@
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetJ?_2" already exists
+Add Net: Net with name "NetJ?_3" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=AT-kdCONN Member=Component C? 0.1uF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C? 1nF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C? 10uF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C? 10uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C? 10uF
+Added Member To Class: ClassName=AT-kdCONN Member=Component R? 24 K
+Added Member To Class: ClassName=AT-kdCONN Member=Component R? 20 K
+Added Member To Class: ClassName=AT-kdCONN Member=Component R? 100 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R? 180 K
+Added Member To Class: ClassName=AT-kdCONN Member=Component R? 10 K
+Added Member To Class: ClassName=AT-kdFCU Member=Component R? CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdFCU Member=Component R? CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdFCU Member=Component R? CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdFCU Member=Component R? CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdSENS Member=Component R? 2.7 K
+Added Member To Class: ClassName=AT-kdSENS Member=Component R? 2.7 K

@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=AT-kdFCU Member=R7
+Added Component: Designator=R?(RESC1005X40X25ML10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0402WG00000TCE-TR"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25ML10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0402WG00000TCE-TR"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25ML10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0402WG00000TCE-TR"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X40X25ML10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MC0402WG00000TCE-TR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U1-18
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=AT-kdFCU Member=Component C15 4.7pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C17 15pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C19 0.1uF
+Added Member To Class: ClassName=AT-kdFCU Member=Component R2 10 K
+Added Member To Class: ClassName=AT-kdFCU Member=Component R3 10 K
+Added Member To Class: ClassName=AT-kdFCU Member=Component R5 5.1 K
+Added Member To Class: ClassName=AT-kdFCU Member=Component R6 500 Ohm
+Added Member To Class: ClassName=AT-kdFCU Member=Component R? MC0402WG00000TCE-TR
+Added Member To Class: ClassName=AT-kdFCU Member=Component R? MC0402WG00000TCE-TR
+Added Member To Class: ClassName=AT-kdFCU Member=Component R? MC0402WG00000TCE-TR
+Added Member To Class: ClassName=AT-kdFCU Member=Component R? MC0402WG00000TCE-TR
