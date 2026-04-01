@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5V Pin=J14-1
+Removed Pin From Net: NetName=GND Pin=J14-6
+Removed Pin From Net: NetName=GND Pin=J14-S1
+Removed Pin From Net: NetName=GND Pin=J14-S2
+Removed Member From Class: ClassName=AT-kdCONN Member=J14
+Removed Member From Class: ClassName=AT-kdCONN Member=R39
+Removed Member From Class: ClassName=AT-kdCONN Member=R40
+Removed Member From Class: ClassName=AT-kdCONN Member=R42
+Removed Member From Class: ClassName=AT-kdCONN Member=R44
+Added Pin To Net: NetName=NetU1_59 Pin=U1-59
+Added Net: Name=NetU1_59
+Added Pin To Net: NetName=NetU1_60 Pin=U1-60
+Added Net: Name=NetU1_60
+Added Pin To Net: NetName=NetU1_61 Pin=U1-61
+Added Net: Name=NetU1_61
+Added Pin To Net: NetName=NetU1_62 Pin=U1-62
+Added Net: Name=NetU1_62

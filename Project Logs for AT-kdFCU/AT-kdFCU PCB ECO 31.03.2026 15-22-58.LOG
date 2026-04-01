@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VBUS Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=VBUS Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Member From Class: ClassName=AT-kdFCU Member=C20
+Removed Member From Class: ClassName=AT-kdFCU Member=C21

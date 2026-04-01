@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=GND Pin=J4-01
+Removed Pin From Net: NetName=GND Pin=J4-04
+Removed Pin From Net: NetName=GND Pin=J4-07
+Removed Pin From Net: NetName=GND Pin=J4-10
+Removed Pin From Net: NetName=GND Pin=J4-13
+Removed Pin From Net: NetName=GND Pin=J4-16
+Removed Pin From Net: NetName=GND Pin=J4-19
+Removed Pin From Net: NetName=GND Pin=J4-22
+Removed Member From Class: ClassName=AT-kdCONN Member=J4
+Added Component: Designator=J13(JST_BM06B-GHS-TBT(LF)(SN)(N))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BM06B-GHS-TBT(LF)(SN)(N)/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BM06B-GHS-TBT(LF)(SN)(N)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BM06B-GHS-TBT(LF)(SN)(N)/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J14(JST_BM06B-GHS-TBT(LF)(SN)(N))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BM06B-GHS-TBT(LF)(SN)(N)/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BM06B-GHS-TBT(LF)(SN)(N)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BM06B-GHS-TBT(LF)(SN)(N)/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J13-6
+Added Pin To Net: NetName=GND Pin=J13-S1
+Added Pin To Net: NetName=GND Pin=J13-S2
+Added Pin To Net: NetName=5V Pin=J14-1
+Added Pin To Net: NetName=GND Pin=J14-6
+Added Pin To Net: NetName=GND Pin=J14-S1
+Added Pin To Net: NetName=GND Pin=J14-S2
+Added Pin To Net: NetName=NetJ13_2 Pin=J13-2
+Added Pin To Net: NetName=NetJ13_2 Pin=R50-1
+Added Net: Name=NetJ13_2
+Added Pin To Net: NetName=NetJ13_3 Pin=J13-3
+Added Pin To Net: NetName=NetJ13_3 Pin=R49-1
+Added Net: Name=NetJ13_3
+Added Pin To Net: NetName=NetJ13_4 Pin=J13-4
+Added Pin To Net: NetName=NetJ13_4 Pin=R48-1
+Added Net: Name=NetJ13_4
+Added Pin To Net: NetName=NetJ13_5 Pin=J13-5
+Added Pin To Net: NetName=NetJ13_5 Pin=R46-1
+Added Net: Name=NetJ13_5
+Added Pin To Net: NetName=NetJ14_2 Pin=J14-2
+Added Pin To Net: NetName=NetJ14_2 Pin=R44-1
+Added Net: Name=NetJ14_2
+Added Pin To Net: NetName=NetJ14_3 Pin=J14-3
+Added Pin To Net: NetName=NetJ14_3 Pin=R42-1
+Added Net: Name=NetJ14_3
+Added Pin To Net: NetName=NetJ14_4 Pin=J14-4
+Added Pin To Net: NetName=NetJ14_4 Pin=R40-1
+Added Net: Name=NetJ14_4
+Added Pin To Net: NetName=NetJ14_5 Pin=J14-5
+Added Pin To Net: NetName=NetJ14_5 Pin=R39-1
+Added Net: Name=NetJ14_5
+Added Member To Class: ClassName=AT-kdCONN Member=Component J13 BM06B-GHS-TBT(LF)(SN)(N)
+Added Member To Class: ClassName=AT-kdCONN Member=Component J14 BM06B-GHS-TBT(LF)(SN)(N)

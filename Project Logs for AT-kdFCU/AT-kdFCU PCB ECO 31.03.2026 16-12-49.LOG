@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetJ10_5 Pin=R60-1
+Removed Pin From Net: NetName=NetJ10_3 Pin=R63-1
+Change Component Footprint: Designator=R60 Old Footprint=RESC0603X28X15NL5T05 New Footprint=RESC1609X55X30LL10T20
+Change Component Footprint: Designator=R63 Old Footprint=RESC0603X28X15NL5T05 New Footprint=RESC1609X55X30LL10T20
+Change Component Comment : Designator=R60 Old Comment=CRCW02010000Z0ED New Comment=0 Ohm
+Change Component Comment : Designator=R63 Old Comment=CRCW02010000Z0ED New Comment=0 Ohm
+Change Managed Component Library Link : Designator=R60 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA New ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A Old RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3 New RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0
+Change Managed Component Library Link : Designator=R63 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA New ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A Old RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3 New RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0
+Change component parameters: Designator = "R60" ("R60"); Footprint = "RESC0603X28X15NL5T05"; UniqueID = "\UCAFEQVD" ("\UCAFEQVD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R63" ("R63"); Footprint = "RESC0603X28X15NL5T05"; UniqueID = "\VMXZICVV" ("\VMXZICVV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEN"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ10_5 Pin=R60-2
+Added Pin To Net: NetName=NetJ10_3 Pin=R63-2
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=NetR60_1 Pin=U1-85
+Added Net: Name=NetR60_1
+Added Pin To Net: NetName=NetR63_1 Pin=R63-1
+Added Pin To Net: NetName=NetR63_1 Pin=U1-87
+Added Net: Name=NetR63_1

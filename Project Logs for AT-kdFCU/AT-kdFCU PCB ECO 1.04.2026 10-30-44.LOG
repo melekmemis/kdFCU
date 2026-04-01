@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=DS1-2
+Removed Pin From Net: NetName=5 V Pin=FB1-1
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=VBUS Pin=R3-2
+Removed Pin From Net: NetName=5 V Pin=R4-1
+Removed Pin From Net: NetName=VBUS Pin=R4-2
+Removed Pin From Net: NetName=NetD2_5 Pin=R7-1
+Removed Member From Class: ClassName=AT-kdFCU Member=DS1
+Removed Member From Class: ClassName=AT-kdFCU Member=FB1
+Removed Member From Class: ClassName=AT-kdFCU Member=R3
+Removed Member From Class: ClassName=AT-kdFCU Member=R4
+Removed Member From Class: ClassName=AT-kdFCU Member=R7
+Added Pin To Net: NetName=5 V Pin=D1-K

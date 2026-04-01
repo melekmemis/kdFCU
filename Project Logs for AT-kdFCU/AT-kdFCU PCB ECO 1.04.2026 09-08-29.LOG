@@ -1,0 +1,4 @@
+Change Managed Component Library Link : Designator=R22 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A Old RevisionGUID= New RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RESC1609X55X30LL10T20"; UniqueID = "\GFASMBFU" ("\GFASMBFU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEN"; VariantName = "[No Variations]"

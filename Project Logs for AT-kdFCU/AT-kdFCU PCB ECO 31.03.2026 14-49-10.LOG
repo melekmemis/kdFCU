@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetD2_5 Pin=D2-5
+Removed Pin From Net: NetName=NetD2_5 Pin=R7-1
+Added Component: Designator=R76(RESC1609X55X30LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEN"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_5 Pin=R76-1
+Change Net Name : Old Net Name=NetD2_5 New Net Name=NetF1_1
+Added Pin To Net: NetName=NetD2_5 Pin=D2-5
+Added Pin To Net: NetName=NetD2_5 Pin=R7-1
+Added Pin To Net: NetName=NetD2_5 Pin=R76-2
+Added Net: Name=NetD2_5
+Added Member To Class: ClassName=AT-kdFCU Member=Component R76 0 Ohm
