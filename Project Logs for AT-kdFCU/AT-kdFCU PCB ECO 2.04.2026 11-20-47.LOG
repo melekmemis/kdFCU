@@ -1,0 +1,435 @@
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=NetR27_2 Pin=R29-2
+Removed Pin From Net: NetName=NetR25_2 Pin=R30-2
+Removed Pin From Net: NetName=NetJ5_5 Pin=R31-1
+Removed Pin From Net: NetName=NetJ5_4 Pin=R32-1
+Removed Pin From Net: NetName=NetJ5_3 Pin=R33-1
+Removed Pin From Net: NetName=NetJ5_2 Pin=R34-1
+Removed Pin From Net: NetName=NetC40_1 Pin=R35-1
+Removed Pin From Net: NetName=GND Pin=R36-1
+Removed Pin From Net: NetName=NetR35_2 Pin=R36-2
+Removed Pin From Net: NetName=GND Pin=R37-1
+Removed Pin From Net: NetName=NetC5_2 Pin=R38-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R38-2
+Removed Pin From Net: NetName=NetC5_2 Pin=R39-1
+Removed Pin From Net: NetName=NetR37_2 Pin=R39-2
+Removed Pin From Net: NetName=NetC5_2 Pin=R40-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R41-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R42-1
+Removed Pin From Net: NetName=NetJ7_3 Pin=R43-1
+Removed Pin From Net: NetName=NetJ7_3 Pin=R44-1
+Removed Pin From Net: NetName=NetJ7_2 Pin=R45-1
+Removed Pin From Net: NetName=GND Pin=R46-1
+Removed Pin From Net: NetName=GND Pin=R47-1
+Removed Pin From Net: NetName=3.3 V Pin=R48-1
+Removed Pin From Net: NetName=3.3 V Pin=R49-1
+Removed Pin From Net: NetName=NetJ9_5 Pin=R50-2
+Removed Pin From Net: NetName=NetJ9_3 Pin=R52-2
+Removed Pin From Net: NetName=NetR32_2 Pin=R54-1
+Removed Pin From Net: NetName=NetR32_2 Pin=R55-1
+Removed Pin From Net: NetName=NetR33_2 Pin=R56-1
+Removed Pin From Net: NetName=NetR33_2 Pin=R57-1
+Removed Pin From Net: NetName=NetR34_2 Pin=R58-1
+Removed Pin From Net: NetName=NetR57_2 Pin=R58-2
+Removed Pin From Net: NetName=NetR34_2 Pin=R59-1
+Removed Pin From Net: NetName=NetR9_1 Pin=R60-1
+Removed Pin From Net: NetName=NetR59_2 Pin=R60-2
+Removed Pin From Net: NetName=NetR9_1 Pin=R61-1
+Removed Pin From Net: NetName=NetR5_1 Pin=R62-1
+Removed Pin From Net: NetName=NetR5_1 Pin=R63-1
+Removed Pin From Net: NetName=NetR6_1 Pin=R64-1
+Removed Pin From Net: NetName=NetR6_1 Pin=R65-1
+Removed Pin From Net: NetName=NetC2_2 Pin=R66-1
+Removed Pin From Net: NetName=NetC2_2 Pin=R67-1
+Removed Pin From Net: NetName=GND Pin=R68-1
+Removed Pin From Net: NetName=NetR35_2 Pin=U1-19
+Removed Pin From Net: NetName=NetR37_2 Pin=U1-20
+Removed Pin From Net: NetName=NetR44_2 Pin=U1-23
+Removed Pin From Net: NetName=NetR46_2 Pin=U1-26
+Removed Pin From Net: NetName=NetR51_2 Pin=U1-39
+Removed Pin From Net: NetName=NetR53_2 Pin=U1-40
+Removed Pin From Net: NetName=NetR55_2 Pin=U1-42
+Removed Pin From Net: NetName=NetR57_2 Pin=U1-44
+Removed Pin From Net: NetName=NetR59_2 Pin=U1-45
+Removed Pin From Net: NetName=NetR61_2 Pin=U1-46
+Removed Pin From Net: NetName=NetR63_2 Pin=U1-47
+Removed Pin From Net: NetName=NetR65_2 Pin=U1-48
+Removed Pin From Net: NetName=NetR67_2 Pin=U1-49
+Removed Member From Class: ClassName=AT-kdSENS Member=C18
+Removed Member From Class: ClassName=AT-kdCONN Member=R19
+Removed Member From Class: ClassName=AT-kdCONN Member=R21
+Removed Member From Class: ClassName=AT-kdCONN Member=R23
+Change Component Footprint: Designator=R35 Old Footprint=RESC0603X28X15NL5T05 New Footprint=RESC1609X55X30LL10T20
+Change Component Footprint: Designator=R36 Old Footprint=RESC0603X28X15NL5T05 New Footprint=RESC1609X55X30LL10T20
+Change Component Footprint: Designator=R37 Old Footprint=RESC0603X28X15NL5T05 New Footprint=RESC1609X55X30LL10T20
+Change Component Footprint: Designator=R38 Old Footprint=RESC0603X28X15NL5T05 New Footprint=RESC1609X55X30LL10T20
+Change Component Footprint: Designator=R54 Old Footprint=RESC0603X28X15NL5T05 New Footprint=RESC1609X55X30LL10T20
+Change Component Footprint: Designator=R56 Old Footprint=RESC0603X28X15NL5T05 New Footprint=RESC1609X55X30LL10T20
+Change Component Footprint: Designator=R50 Old Footprint=RESC1609X55X30LL10T20 New Footprint=RESC0603X28X15NL5T05
+Change Component Footprint: Designator=R52 Old Footprint=RESC1609X55X30LL10T20 New Footprint=RESC0603X28X15NL5T05
+Change Component Comment : Designator=R50 Old Comment=0 Ohm New Comment=CRCW02010000Z0ED
+Change Component Comment : Designator=R52 Old Comment=0 Ohm New Comment=CRCW02010000Z0ED
+Change Component Comment : Designator=R30 Old Comment=24 K New Comment=27 K
+Change Component Comment : Designator=R29 Old Comment=27 K New Comment=47 Ohm
+Change Component Comment : Designator=R31 Old Comment=47 Ohm New Comment=24 K
+Change Component Comment : Designator=R54 Old Comment=CRCW02010000Z0ED New Comment=0 Ohm
+Change Component Comment : Designator=R56 Old Comment=CRCW02010000Z0ED New Comment=0 Ohm
+Change Component Comment : Designator=R35 Old Comment=CRCW02010000Z0ED New Comment=47 Ohm
+Change Component Comment : Designator=R36 Old Comment=CRCW02010000Z0ED New Comment=47 Ohm
+Change Component Comment : Designator=R37 Old Comment=CRCW02010000Z0ED New Comment=47 Ohm
+Change Component Comment : Designator=R38 Old Comment=CRCW02010000Z0ED New Comment=47 Ohm
+Change Managed Component Library Link : Designator=R35 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA New ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A Old RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3 New RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0
+Change Managed Component Library Link : Designator=R36 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA New ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A Old RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3 New RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0
+Change Managed Component Library Link : Designator=R37 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA New ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A Old RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3 New RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0
+Change Managed Component Library Link : Designator=R38 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA New ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A Old RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3 New RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0
+Change Managed Component Library Link : Designator=R50 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A New ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA Old RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0 New RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3
+Change Managed Component Library Link : Designator=R52 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A New ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA Old RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0 New RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3
+Change Managed Component Library Link : Designator=R54 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA New ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A Old RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3 New RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0
+Change Managed Component Library Link : Designator=R56 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=97FE3A23-0869-4A78-B446-8ED73EDD56EA New ItemGUID=DFC6C730-FF51-457E-AAB8-5E7BF275C93A Old RevisionGUID=037228E4-4C3C-442F-875B-EA5AF6D1DAE3 New RevisionGUID=3E7EDC16-4CDD-4BC9-AB40-242EF2D71DE0
+Change component parameters: Designator = "R35" ("R35"); Footprint = "RESC0603X28X15NL5T05"; UniqueID = "\FSBCQUGK" ("\FSBCQUGK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "RESC0603X28X15NL5T05"; UniqueID = "\RDYGPTZQ" ("\RDYGPTZQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "RESC0603X28X15NL5T05"; UniqueID = "\OTCIUVJW" ("\OTCIUVJW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "RESC0603X28X15NL5T05"; UniqueID = "\ADHRCYPH" ("\ADHRCYPH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50" ("R50"); Footprint = "RESC1609X55X30LL10T20"; UniqueID = "\EWAKPWJM" ("\EWAKPWJM")
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case\Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/20052/crcw0201e3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.23 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 0.6 x 0.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "50 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 mohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "30 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "6E-06 oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.3 mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52" ("R52"); Footprint = "RESC1609X55X30LL10T20"; UniqueID = "\NMWAAGHN" ("\NMWAAGHN")
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case\Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/20052/crcw0201e3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.23 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 0.6 x 0.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "50 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0 mohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "30 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "6E-06 oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.3 mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R54" ("R54"); Footprint = "RESC0603X28X15NL5T05"; UniqueID = "\VCLRXCOV" ("\VCLRXCOV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEN"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R56" ("R56"); Footprint = "RESC0603X28X15NL5T05"; UniqueID = "\KXCVGCYF" ("\KXCVGCYF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TNPW060310R0BEEN"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Pad-6 Pos)
+Added Component: Designator=R69(RESC0603X28X15NL5T05)
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/20052/crcw0201e3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.23 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 0.6 x 0.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "50 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0 mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "6E-06 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.3 mm"; VariantName = "[No Variations]"
+Added Component: Designator=R70(RESC0603X28X15NL5T05)
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/20052/crcw0201e3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.23 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 0.6 x 0.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "50 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0 mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "6E-06 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.3 mm"; VariantName = "[No Variations]"
+Added Component: Designator=R71(RESC0603X28X15NL5T05)
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/20052/crcw0201e3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.23 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 0.6 x 0.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "50 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0 mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "6E-06 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.3 mm"; VariantName = "[No Variations]"
+Added Component: Designator=R72(RESC0603X28X15NL5T05)
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/20052/crcw0201e3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.23 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 0.6 x 0.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "50 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0 mohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "6E-06 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.3 mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=5V Pin=P1-6
+Added Pin To Net: NetName=NetR27_2 Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=NetR25_2 Pin=R31-2
+Added Pin To Net: NetName=NetJ5_5 Pin=R35-1
+Added Pin To Net: NetName=NetJ5_4 Pin=R36-1
+Added Pin To Net: NetName=NetJ5_3 Pin=R37-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R38-1
+Added Pin To Net: NetName=NetC40_1 Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=NetC5_2 Pin=R42-1
+Added Pin To Net: NetName=NetC3_2 Pin=R42-2
+Added Pin To Net: NetName=NetC5_2 Pin=R43-1
+Added Pin To Net: NetName=NetC5_2 Pin=R44-1
+Added Pin To Net: NetName=NetC3_2 Pin=R45-1
+Added Pin To Net: NetName=NetC3_2 Pin=R46-1
+Added Pin To Net: NetName=NetJ7_3 Pin=R47-1
+Added Pin To Net: NetName=NetR46_2 Pin=R47-2
+Added Pin To Net: NetName=NetJ7_3 Pin=R48-1
+Added Pin To Net: NetName=NetJ7_2 Pin=R49-1
+Added Pin To Net: NetName=GND Pin=R50-1
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=3.3 V Pin=R52-1
+Added Pin To Net: NetName=NetR51_2 Pin=R52-2
+Added Pin To Net: NetName=3.3 V Pin=R53-1
+Added Pin To Net: NetName=NetJ9_5 Pin=R54-2
+Added Pin To Net: NetName=NetR35_2 Pin=R55-1
+Added Pin To Net: NetName=NetJ9_3 Pin=R56-2
+Added Pin To Net: NetName=NetR35_2 Pin=R57-1
+Added Pin To Net: NetName=NetR37_2 Pin=R60-1
+Added Pin To Net: NetName=NetR37_2 Pin=R61-1
+Added Pin To Net: NetName=NetR9_1 Pin=R64-1
+Added Pin To Net: NetName=NetR9_1 Pin=R65-1
+Added Pin To Net: NetName=NetR5_1 Pin=R66-1
+Added Pin To Net: NetName=NetR5_1 Pin=R67-1
+Added Pin To Net: NetName=NetR6_1 Pin=R68-1
+Added Pin To Net: NetName=NetR6_1 Pin=R69-1
+Added Pin To Net: NetName=NetC2_2 Pin=R70-1
+Added Pin To Net: NetName=NetC2_2 Pin=R71-1
+Added Pin To Net: NetName=GND Pin=R72-1
+Added Pin To Net: NetName=NetR44_2 Pin=U1-21
+Added Pin To Net: NetName=NetR46_2 Pin=U1-22
+Added Pin To Net: NetName=NetR51_2 Pin=U1-27
+Added Pin To Net: NetName=NetR53_2 Pin=U1-28
+Added Pin To Net: NetName=NetR55_2 Pin=U1-39
+Added Pin To Net: NetName=NetR57_2 Pin=U1-40
+Added Pin To Net: NetName=NetR59_2 Pin=U1-42
+Added Pin To Net: NetName=NetR61_2 Pin=U1-44
+Added Pin To Net: NetName=NetR63_2 Pin=U1-45
+Added Pin To Net: NetName=NetR65_2 Pin=U1-46
+Added Pin To Net: NetName=NetR67_2 Pin=U1-47
+Added Pin To Net: NetName=NetR32_2 Pin=U1-60
+Added Pin To Net: NetName=NetR33_2 Pin=U1-61
+Added Pin To Net: NetName=NetR34_2 Pin=U1-62
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=R29-1
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R32-1
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=R33-1
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=R34-1
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=U1-59
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=R58-1
+Added Pin To Net: NetName=NetR36_2 Pin=R59-1
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=R62-1
+Added Pin To Net: NetName=NetR38_2 Pin=R63-1
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=R40-2
+Added Pin To Net: NetName=NetR39_2 Pin=U1-19
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=NetR41_2 Pin=R43-2
+Added Pin To Net: NetName=NetR41_2 Pin=U1-20
+Added Net: Name=NetR41_2
+Added Pin To Net: NetName=NetR48_2 Pin=R48-2
+Added Pin To Net: NetName=NetR48_2 Pin=R49-2
+Added Pin To Net: NetName=NetR48_2 Pin=U1-23
+Added Net: Name=NetR48_2
+Added Pin To Net: NetName=NetR50_2 Pin=R50-2
+Added Pin To Net: NetName=NetR50_2 Pin=U1-26
+Added Net: Name=NetR50_2
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR54_1 Pin=U1-85
+Added Net: Name=NetR54_1
+Added Pin To Net: NetName=NetR56_1 Pin=R56-1
+Added Pin To Net: NetName=NetR56_1 Pin=U1-87
+Added Net: Name=NetR56_1
+Added Pin To Net: NetName=NetR58_2 Pin=R58-2
+Added Pin To Net: NetName=NetR58_2 Pin=U1-41
+Added Net: Name=NetR58_2
+Added Pin To Net: NetName=NetR60_2 Pin=R60-2
+Added Pin To Net: NetName=NetR60_2 Pin=U1-43
+Added Net: Name=NetR60_2
+Added Pin To Net: NetName=NetR69_2 Pin=R69-2
+Added Pin To Net: NetName=NetR69_2 Pin=R70-2
+Added Pin To Net: NetName=NetR69_2 Pin=U1-48
+Added Net: Name=NetR69_2
+Added Pin To Net: NetName=NetR71_2 Pin=R71-2
+Added Pin To Net: NetName=NetR71_2 Pin=R72-2
+Added Pin To Net: NetName=NetR71_2 Pin=U1-49
+Added Net: Name=NetR71_2
+Added Member To Class: ClassName=AT-kdFCU Member=Component C15 4.7pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C17 15pF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C19 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C23 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C25 0.1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C27 1uF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C29 10nF
+Added Member To Class: ClassName=AT-kdSENS Member=Component C33 1uF
+Added Member To Class: ClassName=AT-kdCONN Member=Component C40 0.1uF
+Added Member To Class: ClassName=AT-kdCONN Member=Component J7 BM04B-GHS-TBT(LF)(SN)(N)
+Added Member To Class: ClassName=AT-kdCONN Member=Component J9 BM06B-GHS-TBT(LF)(SN)(N)
+Added Member To Class: ClassName=AT-kdCONN Member=Component J11 BM06B-GHS-TBT(LF)(SN)(N)
+Added Member To Class: ClassName=AT-kdCONN Member=Component P1 Pad-6Pos
+Added Member To Class: ClassName=AT-kdSENS Member=Component R8 22 Ohm
+Added Member To Class: ClassName=AT-kdSENS Member=Component R10 2.7 K
+Added Member To Class: ClassName=AT-kdSENS Member=Component R12 10 K
+Added Member To Class: ClassName=AT-kdSENS Member=Component R14 120 Ohm
+Added Member To Class: ClassName=AT-kdSENS Member=Component R16 500 Ohm
+Added Member To Class: ClassName=AT-kdSENS Member=Component R18 0 Ohm
+Added Member To Class: ClassName=AT-kdSENS Member=Component R20 4.7 K
+Added Member To Class: ClassName=AT-kdSENS Member=Component R22 4.7 K
+Added Member To Class: ClassName=AT-kdSENS Member=Component R24 47 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R25 180 K
+Added Member To Class: ClassName=AT-kdCONN Member=Component R26 100 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R27 15 K
+Added Member To Class: ClassName=AT-kdCONN Member=Component R28 100 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R29 47 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R30 27 K
+Added Member To Class: ClassName=AT-kdCONN Member=Component R36 47 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R38 47 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R43 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R46 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R48 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R49 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R50 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R54 0 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R56 0 Ohm
+Added Member To Class: ClassName=AT-kdCONN Member=Component R58 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R60 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R64 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R66 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R68 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R69 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R70 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R71 CRCW02010000Z0ED
+Added Member To Class: ClassName=AT-kdCONN Member=Component R72 CRCW02010000Z0ED

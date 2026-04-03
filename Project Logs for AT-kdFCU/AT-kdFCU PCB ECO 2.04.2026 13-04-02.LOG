@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C40-2
+Change Component Footprint: Designator=C40 Old Footprint=CAPC1608X92X38ML15T08 New Footprint=Capacitor-0603
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=R39-1
+Added Net: Name=NetC40_2
+Added Member To Class: ClassName=AT-kdFCU Member=Component C14 15pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C15 4.7pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C17 15pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component C18 4.7pF
+Added Member To Class: ClassName=AT-kdFCU Member=Component Y1 24 MHz
+Added Member To Class: ClassName=AT-kdFCU Member=Component Y2 32 KHz

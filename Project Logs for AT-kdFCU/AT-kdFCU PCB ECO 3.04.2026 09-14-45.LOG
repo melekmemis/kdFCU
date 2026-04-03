@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=RST Pin=J1-1
+Removed Pin From Net: NetName=SWDIO Pin=J1-2
+Removed Pin From Net: NetName=SWCLK Pin=J1-3
+Removed Pin From Net: NetName=BOOT Pin=J1-4
+Removed Pin From Net: NetName=3.3 V Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Member From Class: ClassName=AT-kdFCU Member=J1
+Added Component: Designator=P2(Pad-3x2)
+Added Pin To Net: NetName=RST Pin=P2-1
+Added Pin To Net: NetName=SWDIO Pin=P2-2
+Added Pin To Net: NetName=SWCLK Pin=P2-3
+Added Pin To Net: NetName=BOOT Pin=P2-4
+Added Pin To Net: NetName=3.3 V Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Member To Class: ClassName=AT-kdFCU Member=Component P2 Pad-3x2
+Added Member To Class: ClassName=AT-kdSENS Member=Component R11 2.7K

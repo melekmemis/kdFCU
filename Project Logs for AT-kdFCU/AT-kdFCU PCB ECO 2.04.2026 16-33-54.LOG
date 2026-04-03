@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=NetJ4_4 Pin=R25-2
+Removed Pin From Net: NetName=NetJ4_3 Pin=R27-2
+Change Component Footprint: Designator=C35 Old Footprint=Capacitor-0603 New Footprint=Capacitor-0805
+Change Component Footprint: Designator=C36 Old Footprint=Capacitor-0603 New Footprint=Capacitor-0805
+Change Component Footprint: Designator=R25 Old Footprint=Resistor-0603 New Footprint=Resistor-0805
+Change Component Footprint: Designator=R26 Old Footprint=Resistor-0603 New Footprint=Resistor-0805
+Change Component Footprint: Designator=R27 Old Footprint=Resistor-0603 New Footprint=Resistor-0805
+Change Component Footprint: Designator=R28 Old Footprint=Resistor-0603 New Footprint=Resistor-0805
+Change Component Footprint: Designator=R30 Old Footprint=Resistor-0603 New Footprint=Resistor-0805
+Change Component Footprint: Designator=R31 Old Footprint=Resistor-0603 New Footprint=Resistor-0805
+Change Component Comment : Designator=R13 Old Comment=0 Ohm New Comment=47 Ohm
+Change Component Comment : Designator=R15 Old Comment=0 Ohm New Comment=47 Ohm
+Change Component Comment : Designator=R31 Old Comment=24K New Comment=27K
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=NetJ4_4 Pin=R25-1
+Added Pin To Net: NetName=NetJ4_3 Pin=R27-1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=R28-2
+Added Pin To Net: NetName=NetC35_2 Pin=U1-16
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=R26-2
+Added Pin To Net: NetName=NetC36_2 Pin=U1-15
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=R26-1
+Added Pin To Net: NetName=NetR25_2 Pin=R31-2
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=R28-1
+Added Pin To Net: NetName=NetR27_2 Pin=R30-2
+Added Net: Name=NetR27_2

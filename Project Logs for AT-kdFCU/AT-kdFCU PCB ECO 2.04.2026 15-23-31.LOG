@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetU1_3 Pin=U2-5
+Removed Pin From Net: NetName=NetU1_4 Pin=U2-14
+Removed Pin From Net: NetName=NetU1_2 Pin=U2-16
+Added Pin To Net: NetName=NetU1_4 Pin=U2-5
+Added Pin To Net: NetName=NetU1_2 Pin=U2-14
+Added Pin To Net: NetName=NetU1_3 Pin=U2-16
+Added Member To Class: ClassName=AT-kdSENS Member=Component R11 2.7K

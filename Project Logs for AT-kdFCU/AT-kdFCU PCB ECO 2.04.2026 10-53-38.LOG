@@ -1,0 +1,6 @@
+Added Component: Designator=P?(Pad-1Pos)
+Added Component: Designator=P?(Pad-6 Pos)
+Added Component: Designator=P?(Pad-4Pos)
+Added Member To Class: ClassName=AT-kdCONN Member=Component P? Pad-1Pos
+Added Member To Class: ClassName=AT-kdCONN Member=Component P? Pad-6Pos
+Added Member To Class: ClassName=AT-kdCONN Member=Component P? Pad-4Pos

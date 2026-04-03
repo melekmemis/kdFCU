@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=C40-2
+Change Component Footprint: Designator=C40 Old Footprint=CAPC1608X92X38ML15T08 New Footprint=Capacitor-0603
+Change Managed Component Library Link : Designator=C40 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=B2BECB60-B0C7-442E-BC4E-3A32C80DA263 New ItemGUID= Old RevisionGUID=E531065C-BA0E-471F-917C-3975855CAB2F New RevisionGUID=
+Change component parameters: Designator = "C40" ("C40"); Footprint = "CAPC1608X92X38ML15T08"; UniqueID = "\STIVDDFK" ("\STIVDDFK")
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=R39-1
+Added Net: Name=NetC40_2
